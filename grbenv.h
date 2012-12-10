@@ -1,8 +1,9 @@
 /*
  * grbenv.h, by Marius Posta, 2009
- *
+ * Check LICENSE.txt for the legal blah-blah.
+ * 
  * Gurobi LP solver header file.
- *
+ * 
  */
 
 #ifndef GRBENV_H

@@ -1,5 +1,6 @@
 /*
  * shortestpath.h, by Marius Posta, 2009.
+ * Check LICENSE.txt for the legal blah-blah.
  *
  * simple directed graph and residual graph data structure definitions for the CMND problem.
  *

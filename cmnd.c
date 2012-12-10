@@ -1,6 +1,6 @@
 /*
 * cmnd.c, by Marius Posta, 2009
-*
+* Check LICENSE.txt for the legal blah-blah.
 */
 
 #include "cmnd.h"

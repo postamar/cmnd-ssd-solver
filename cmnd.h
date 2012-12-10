@@ -1,5 +1,6 @@
 /*
  * cmnd.h, by Marius Posta, 2009.
+ * Check LICENSE.txt for the legal blah-blah.
  *
  * Capacitated Multicommodity Network Design problem instance structure definition.
  */

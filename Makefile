@@ -1,4 +1,5 @@
-
+# (C) Marius Posta, 2012
+# Check LICENSE.txt for the legal blah-blah.
 
 # variables
 
